@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat.NoActionBar.Light.DarkActionBar" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/red</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+    </style>
+</resources>
